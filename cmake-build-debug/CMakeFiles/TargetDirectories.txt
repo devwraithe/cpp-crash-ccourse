@@ -1,0 +1,3 @@
+/Users/admin/Documents/Development/C++/c++crash-course/cmake-build-debug/CMakeFiles/c__crash_course.dir
+/Users/admin/Documents/Development/C++/c++crash-course/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/Documents/Development/C++/c++crash-course/cmake-build-debug/CMakeFiles/rebuild_cache.dir
